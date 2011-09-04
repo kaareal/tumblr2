@@ -1,5 +1,5 @@
 {
-  "name": "node-tumblr-v2",
+  "name": "tumblr2",
   "version": "v0.1.0",
   "description": "Tumblr V.2 API client node.js.",
   "keywords": [
@@ -7,17 +7,17 @@
     "v2",
     "client"
   ],
-  "homepage": "http://github.com/kaareal/tumblr-v2-node",
+  "homepage": "http://github.com/kaareal/tumblr2",
   "author": "kaareal",
   "licenses": [
   {
     "type": "MIT",
-    "url": "http://github.com/kaareal/tumblr-v2-node/raw/master/LICENSE"
+    "url": "http://github.com/kaareal/tumblr2/raw/master/LICENSE"
   }
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/kaareal/tumblr-v2-node.git"
+    "url": "http://github.com/kaareal/tumblr2.git"
   },
   "dependencies": {
     "oauth": ">=0.8.4"
