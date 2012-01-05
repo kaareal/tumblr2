@@ -1,6 +1,6 @@
 {
   "name": "tumblr2",
-  "version": "v0.1.4.1",
+  "version": "v0.1.5",
   "description": "Tumblr V.2 API client node.js.",
   "keywords": [
     "tumblr",
